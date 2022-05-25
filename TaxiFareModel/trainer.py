@@ -1,6 +1,7 @@
 # imports
 
 class Trainer():
+    local_path = '/Users/mariavlad/code/IsiomaIloh/TaxiFareModel/raw_data/train_10k.csv'
     def __init__(self, X, y):
         """
             X: pandas DataFrame
@@ -12,7 +13,9 @@ class Trainer():
 
     def set_pipeline(self):
         """defines the pipeline as a class attribute"""
+
         pass
+    
 
     def run(self):
         """set and train the pipeline"""
@@ -25,6 +28,7 @@ class Trainer():
 
 if __name__ == "__main__":
     # get data
+    df = get_data
     # clean data
     # set X and y
     # hold out

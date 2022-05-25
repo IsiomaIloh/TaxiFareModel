@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mariavlad/code/IsiomaIloh/TaxiFareModel/mlruns/1/585326f3a4b544d99193cb1b9a69bf87/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 585326f3a4b544d99193cb1b9a69bf87
+run_uuid: 585326f3a4b544d99193cb1b9a69bf87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653399472411
+status: 1
+tags: []
+user_id: unknown
